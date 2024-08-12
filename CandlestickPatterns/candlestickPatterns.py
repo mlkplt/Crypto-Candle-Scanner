@@ -1,3 +1,4 @@
+#author: @mlkplt
 import ccxt
 import pandas as pd
 import talib
